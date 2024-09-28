@@ -1,4 +1,4 @@
-![Banner](https://github.com/RITAMBISWAS404/RITAMBISWAS404/blob/main/github.png?raw=true)
+![Banner](https://github.com/RITAMBISWAS404/RITAMBISWAS404/blob/main/banner.png?raw=true)
 
 <h1 align="center">✨ Namaste ! myself my Ritam Biswas</h1>
 <h3 align="center">A passionate UX/UI designer and frontend web/flutter developer from India</h3>
